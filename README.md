@@ -22,7 +22,9 @@ By scaling the input and output variables when preparing regression data, we can
 
 
 Method:
-The Normalize.java file reads the input_parameter.csv file into arrays for each parameter. Then, the minValue and maxValue functions are used to identify the min and max values in each array. Finally, we call the normalize() method for each parameter and write the results into the output.csv file. 
+1. The Normalize.java file reads the input_parameter.csv file into arrays for each parameter. 
+2. Then, the minValue and maxValue functions are used to identify the min and max values in each array. 
+3. Finally, we call the normalize() method for each parameter and write the results into the output.csv file. 
 
 ## Linear Regression and Feature Selection
 Goals of Regression Task:
