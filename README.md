@@ -7,7 +7,7 @@ Compilation of code scripts from the Fall 2021 semester of Intelligent Tunneling
 3. Regression and Feature Selection
 
 ## Overview
-As a part of the Intelligent Tunneling team, this semester, I created a script to normalize the input and output parameters of collected data, created a linear regression model using the processed dataset, and performed some inital feature selection analysis. 
+As a part of the Intelligent Tunneling team of the Computation Modeling and Visulization in Geomechanics Research Group, I created a script to normalize the input and output parameters of collected data, created a linear regression model using the processed dataset, and performed some inital feature selection analysis. 
 
 This project is created with:
 * Java 
